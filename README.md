@@ -2,4 +2,4 @@
 施妘蓁1152024
 
 ## 一張照片
-![照片](images\images.jpg)
+![照片](images/images.jpg)
